@@ -1,0 +1,2 @@
+# exercicio-3-html-onebitcode
+No curso de Full stack JavaScript, na parte de HTML, foi solicitado que eu criasse em HTML uma lista não ordenada de álbuns onde cada item pussuisse uma lista ordenada das músicas do álbum. Além disso adicionei uma parte de biografia da banda, imagens dos integrantes, também acrescentei as capas dos álbuns e em todas as músicas adicionei links que direcionam ao YouTube com as respectivas músicas.
